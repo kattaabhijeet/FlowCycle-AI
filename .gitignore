@@ -18,6 +18,7 @@ venv.bak/
 
 # Videos and large outputs
 *.mp4
+!Hardware_output.mp4
 *.avi
 *.mkv
 frames/
